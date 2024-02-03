@@ -9,12 +9,12 @@ I am a senior software engineering student currently working as a software devel
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## DB & Query Languages
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,6 +39,30 @@ I am a senior software engineering student currently working as a software devel
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
+## Data Visualization & Analysis
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-0F6D41?style=for-the-badge&logo=dash&logoColor=white)
+![Three](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![D3](https://img.shields.io/badge/D3-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Eigen](https://img.shields.io/badge/Eigen-39424E?style=for-the-badge&logo=eigen&logoColor=white)
+![Mokka](https://img.shields.io/badge/Mokka-008080?style=for-the-badge&logo=mokka&logoColor=white)
+
+## Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-35AEE2?style=for-the-badge&logo=vuforia&logoColor=white)
+
+## Testing & Quality Assurance
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyLint](https://img.shields.io/badge/PyLint-4B8BBE?style=for-the-badge&logo=pylint&logoColor=white)
+![Coverage](https://img.shields.io/badge/Coverage-4CAF50?style=for-the-badge&logo=coverage&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 ## Software & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-0082C5?style=for-the-badge&logo=internet-of-things&logoColor=white)
@@ -49,15 +73,11 @@ I am a senior software engineering student currently working as a software devel
 ![Labview](https://img.shields.io/badge/Labview-FFD100?style=for-the-badge&logo=labview&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Vuforia](https://img.shields.io/badge/Vuforia-35AEE2?style=for-the-badge&logo=vuforia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-0696D7?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-535353?style=for-the-badge&logo=perforce&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-005C9C?style=for-the-badge&logo=uml&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 📫 Let's connect! [![Linkedin: Corey](https://img.shields.io/badge/-Corey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/corey-heckel-991218271)](https://www.linkedin.com/in/richardrickykirk/) | [![GitHub Corey](https://img.shields.io/github/followers/ulrokx?label=follow&style=social)](https://github.com/coreyheckel3)
