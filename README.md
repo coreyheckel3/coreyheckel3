@@ -80,4 +80,4 @@ I am a senior software engineering student currently working as a software devel
 ![UML](https://img.shields.io/badge/UML-005C9C?style=for-the-badge&logo=uml&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-📫 Let's connect! [![Linkedin: Corey](https://img.shields.io/badge/-Corey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/corey-heckel-991218271)](www.linkedin.com/in/corey-heckel-991218271) | [![GitHub Corey](https://img.shields.io/github/followers/ulrokx?label=follow&style=social)](https://github.com/coreyheckel3)
+📫 Let's connect! [![Linkedin: Corey](https://img.shields.io/badge/-Corey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/corey-heckel-991218271)]([www.linkedin.com/in/corey-heckel-991218271](https://www.linkedin.com/in/corey-heckel-991218271/)) | [![GitHub Corey](https://img.shields.io/github/followers/ulrokx?label=follow&style=social)](https://github.com/coreyheckel3)
