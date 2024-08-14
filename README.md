@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Corey Heckel
 
-I am a recent Software Engineering graduate at Stevens Institute of Technology currently purusing a masters in Machine Learning. I am currently working as a software developer and researcher for the computer science department at Stevens Institute of Technology. Since May I have been working on developing an application that enables blind users to learn the structure of english characters and be able to write. Outside of this project where I am working with Unity, Augmented Reality, and Computer Vision, I am experienced with Machine Learning, Web Development, and Financial Applications.
+I am a Machine Learning graduate student at Stevens Institute of Technology with a bachelors in Software Engineering. I am currently working as a software developer and researcher for the computer science department at Stevens Institute of Technology. Since May 2023 I have been working on developing an application that enables blind users to learn the structure of english characters and be able to write, utilizing computer vision and machine learning concepts. Outside of this project , I am experienced with Web Development, and Financial Applications.
 
 ## Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
