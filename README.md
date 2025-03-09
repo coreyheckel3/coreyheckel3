@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Corey Heckel
 
-I am a Stevens Institute of Technology graduate with a masters in Machine Learning with a bachelors in Software Engineering. I am currently working as a freelance software developer/web designer.
+I am a Machine Learning Engineer II @ Nike and Stevens Institute of Technology graduate with a masters in Machine Learning with a bachelors in Software Engineering. I am also working as a freelance software developer/web designer.
 
 ## Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
